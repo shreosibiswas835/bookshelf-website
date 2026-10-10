@@ -20,5 +20,4 @@ A modern bookstore website built using HTML, CSS, and JavaScript.
 - pages/
 - index.html
 
-## 🌐 Live Demo
-https://samyakdutta835.github.io/bookshelf-website/
+
